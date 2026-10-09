@@ -1,0 +1,14 @@
+/Users/mani/Applications/notebook_dotnet/bin/Debug/net8.0/notebook_dotnet
+/Users/mani/Applications/notebook_dotnet/bin/Debug/net8.0/notebook_dotnet.deps.json
+/Users/mani/Applications/notebook_dotnet/bin/Debug/net8.0/notebook_dotnet.runtimeconfig.json
+/Users/mani/Applications/notebook_dotnet/bin/Debug/net8.0/notebook_dotnet.dll
+/Users/mani/Applications/notebook_dotnet/bin/Debug/net8.0/notebook_dotnet.pdb
+/Users/mani/Applications/notebook_dotnet/obj/Debug/net8.0/notebook_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mani/Applications/notebook_dotnet/obj/Debug/net8.0/notebook_dotnet.AssemblyInfoInputs.cache
+/Users/mani/Applications/notebook_dotnet/obj/Debug/net8.0/notebook_dotnet.AssemblyInfo.cs
+/Users/mani/Applications/notebook_dotnet/obj/Debug/net8.0/notebook_dotnet.csproj.CoreCompileInputs.cache
+/Users/mani/Applications/notebook_dotnet/obj/Debug/net8.0/notebook_dotnet.dll
+/Users/mani/Applications/notebook_dotnet/obj/Debug/net8.0/refint/notebook_dotnet.dll
+/Users/mani/Applications/notebook_dotnet/obj/Debug/net8.0/notebook_dotnet.pdb
+/Users/mani/Applications/notebook_dotnet/obj/Debug/net8.0/notebook_dotnet.genruntimeconfig.cache
+/Users/mani/Applications/notebook_dotnet/obj/Debug/net8.0/ref/notebook_dotnet.dll
